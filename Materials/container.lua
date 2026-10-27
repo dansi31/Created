@@ -172,4 +172,28 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/cachalot.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/cachalot.mp3"
 	};
+	
+	[30] = {
+		Name = "triplesixdelete, ONDA ANDAR - blackout",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/blackout.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/blackout.mp3"
+	};
+	
+	[31] = {
+		Name = "ONDA ANDAR - warzone #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/warzone.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/warzone.mp3"
+	};
+	
+	[32] = {
+		Name = "ONDA ANDAR - MyNokia Tool 1",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/mynokia_tool.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/mynokia_tool.mp3"
+	};
+	
+	[33] = {
+		Name = "ONDA ANDAR - stay_botom #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/stay_bottom.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/stay_bottom.mp3"
+	};
 }
