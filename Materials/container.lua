@@ -295,8 +295,8 @@ return {
 	
 	[50] = {
 		Name = "ONDA ANDAR - NEON|ФАРАОН",
-		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/nizko.jpeg",
-		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/nizko.mp3"
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/neon_pharaoh.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/neon_pharaoh.mp3"
 	};
 	
 	[51] = {
