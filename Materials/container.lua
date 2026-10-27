@@ -112,4 +112,40 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/kc2d.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/credits_song.mp3"
 	};
+	
+	[20] = {
+		Name = "ONDA ANDAR, #keyoo - 330",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/330.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/330.mp3"
+	};
+	
+	[21] = {
+		Name = "ONDA ANDAR - red weather",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/red_weather.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/red_weather.mp3"
+	};
+	
+	[22] = {
+		Name = "ONDA ANDAR - type london",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/type_london.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/type_london.mp3"
+	};
+	
+	[23] = {
+		Name = "ONDA ANDAR - Analog Angels #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/analog_angels.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/analog_angels.mp3"
+	};
+	
+	[24] = {
+		Name = "ONDA ANDAR - RANE #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/rane.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/rane.mp3"
+	};
+	
+	[25] = {
+		Name = "triplesixdelete, ONDA ANDAR - a milli",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/a_milli.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/a_milli.mp3"
+	};
 }
