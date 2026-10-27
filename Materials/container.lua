@@ -163,8 +163,8 @@ return {
 	
 	[28] = {
 		Name = "ONDA ANDAR - linux champion",
-		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/a_milli.jpeg",
-		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/a_milli.mp3"
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/linux_champion.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/linux_champion.mp3"
 	};
 	
 	[29] = {
