@@ -196,4 +196,28 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/stay_bottom.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/stay_bottom.mp3"
 	};
+	
+	[34] = {
+		Name = "ONDA ANDAR - Музыка маяка #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/mayac_music.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/mayac_music.mp3"
+	};
+	
+	[35] = {
+		Name = "ONDA ANDAR - 7",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/7.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/7.mp3"
+	};
+	
+	[36] = {
+		Name = "ONDA ANDAR - One Star #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/one_star.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/one_star.mp3"
+	};
+	
+	[37] = {
+		Name = "elox1m, ONDA ANDAR - pager =(",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/pager.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/pager.mp3"
+	};
 }
