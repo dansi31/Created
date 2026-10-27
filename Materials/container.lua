@@ -28,4 +28,16 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/night_cafe.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/night_cafe.mp3"
 	};
+	
+	[6] = {
+		Name = "ONDA ANDAR - suomi mania",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/kc2d.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/suomi_mania.mp3"
+	};
+	
+	[7] = {
+		Name = "ONDA ANDAR - herons",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/kc2d.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/herons.mp3"
+	};
 }
