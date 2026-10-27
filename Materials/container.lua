@@ -220,4 +220,88 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/pager.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/pager.mp3"
 	};
+	
+	[38] = {
+		Name = "ONDA ANDAR - clouds as guardians",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/clouds_as_guardians.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/clouds_as_guardians.mp3"
+	};
+	
+	[39] = {
+		Name = "ptrckparker, ONDA ANDAR - huh letsgo msfytid",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/huh_letsgo_msfytid.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/huh_letsgo_msfytid.mp3"
+	};
+	
+	[40] = {
+		Name = "ONDA ANDAR - Chrome Angel #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/chrome_angel.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/chrome_angel.mp3"
+	};
+	
+	[41] = {
+		Name = "ONDA ANDAR - DeadEndPlus",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/de_plus.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/de_plus.mp3"
+	};
+	
+	[42] = {
+		Name = "ONDA ANDAR - Интернет человек #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/internet_man.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/internet_man.mp3"
+	};
+	
+	[43] = {
+		Name = "ONDA ANDAR - Coraline",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/coraline.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/coraline.mp3"
+	};
+	
+	[44] = {
+		Name = "ptrckparker, ONDA ANDAR - #theblacksuit",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/theblacksuit.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/theblacksuit.mp3"
+	};
+	
+	[45] = {
+		Name = "ONDA ANDAR - Секрет фирмы",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/secret_firm.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/secret_firm.mp3"
+	};
+	
+	[46] = {
+		Name = "ONDA ANDAR - Привидение краш тест",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/prividenie_crash_test.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/prividenie_crash_test.mp3"
+	};
+	
+	[47] = {
+		Name = "ONDA ANDAR - Wings",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/wings.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/wings.mp3"
+	};
+	
+	[48] = {
+		Name = "ONDA ANDAR - AMEN 98",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/amen_98.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/amen_98.mp3"
+	};
+	
+	[49] = {
+		Name = "ONDA ANDAR - Низко",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/nizko.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/nizko.mp3"
+	};
+	
+	[50] = {
+		Name = "ONDA ANDAR - NEON|ФАРАОН",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/nizko.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/nizko.mp3"
+	};
+	
+	[51] = {
+		Name = "ШИПЫ - ATHF 2×2 SERIES FREESTYLE #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/athf.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/athf.mp3"
+	};
 }
