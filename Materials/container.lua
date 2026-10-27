@@ -148,4 +148,28 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/a_milli.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/a_milli.mp3"
 	};
+	
+	[26] = {
+		Name = "#keyoo, ONDA ANDAR - moR th3 #STranger",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/mor_the_stranger.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/mor_the_stranger.mp3"
+	};
+	
+	[27] = {
+		Name = "ONDA ANDAR - Ericsson #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/ericsson.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/ericsson.mp3"
+	};
+	
+	[28] = {
+		Name = "ONDA ANDAR - linux champion",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/a_milli.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/a_milli.mp3"
+	};
+	
+	[29] = {
+		Name = "ONDA ANDAR - cachalot",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/cachalot.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/cachalot.mp3"
+	};
 }
