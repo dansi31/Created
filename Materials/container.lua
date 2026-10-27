@@ -1,7 +1,19 @@
 return {
-    [1] = {
-        Name = "ONDA ANDAR",
-        IconLink = "https://raw.githubusercontent.com/dansi31/D4rknessHub/refs/heads/main/dansmi%20projects%20icon2.png",
-        MusicLink = "https://github.com/dansi31/D4rknessHubMusic/raw/refs/heads/main/Short_Dick_Man__GargØynes_Remix_.mp3"
-    };
+	[1] = {
+		Name = "ONDA ANDAR - badger",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/BadgerAlbum.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/badger.mp3"
+	};
+	
+	[2] = {
+		Name = "ONDA ANDAR - green lights",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/BadgerAlbum.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/green_lights.mp3"
+	};
+	
+	[3] = {
+		Name = "ONDA ANDAR - one way ticket",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/BadgerAlbum.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/one_way_ticket.mp3"
+	};
 }
