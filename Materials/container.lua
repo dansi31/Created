@@ -511,13 +511,13 @@ return {
 	
 	[86] = {
 		Name = "ШИПЫ - krovat'",
-		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/krovat.jpeg",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/krovat.jpe",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/krovat.mp3"
 	};
 	
 	[87] = {
 		Name = "ШИПЫ - krovat' (sc ver)",
-		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/krovat.jpeg",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/krovat.jpe",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/krovat2.mp3"
 	};
 	
