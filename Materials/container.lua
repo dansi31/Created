@@ -394,4 +394,70 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/wrms.mp3"
 	};
+	
+	[67] = {
+		Name = "ШИПЫ - Tekken 6 PSP",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/tekken.mp3"
+	};
+	
+	[68] = {
+		Name = "ШИПЫ - Bro ++",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/bro.mp3"
+	};
+	
+	[69] = {
+		Name = "ptrckparker, ШИПЫ - Kings day++Devils night",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/kings_day.mp3"
+	};
+	
+	[70] = {
+		Name = "ШИПЫ - FIRE",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/fire.mp3"
+	};
+	
+	[71] = {
+		Name = "ШИПЫ - Gothic da Crown",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/gothic.mp3"
+	};
+	
+	[72] = {
+		Name = "ШИПЫ - Castle Mirror",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/castle_mirror.mp3"
+	};
+	
+	[73] = {
+		Name = "ШИПЫ - death of the lord",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/death_of_the_lord.mp3"
+	};
+	
+	[74] = {
+		Name = "ШИПЫ - WaKeUp=)))))",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/wakeup.mp3"
+	};
+	
+	[75] = {
+		Name = "ШИПЫ - GAMECRASH",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/gamecrash.mp3"
+	};
+	
+	[76] = {
+		Name = "ШИПЫ - Empire of the sadness",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/empire.mp3"
+	};
+	
+	[77] = {
+		Name = "ШИПЫ - Sever111",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/sever111.mp3"
+	};
 }
