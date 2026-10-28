@@ -460,4 +460,34 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/sever111.mp3"
 	};
+	
+	[78] = {
+		Name = "ШИПЫ - ThePolePositionClub",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/thepole.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/thepole.mp3"
+	};
+	
+	[79] = {
+		Name = "ШИПЫ - ReddFilterOn",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/reddfilteron.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/reddfilteron.mp3"
+	};
+	
+	[80] = {
+		Name = "ШИПЫ - L+R",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/lr.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/lr.mp3"
+	};
+	
+	[81] = {
+		Name = "ШИПЫ - SunsetPrincess240",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/sunset.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/sunset.mp3"
+	};
+	
+	[82] = {
+		Name = "ШИПЫ - Stranger #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/stranger.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/stranger.mp3"
+	};
 }
