@@ -490,4 +490,64 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/stranger.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/stranger.mp3"
 	};
+	
+	[83] = {
+		Name = "ШИПЫ - G++ 2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/g.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/g.mp3"
+	};
+	
+	[84] = {
+		Name = "fortuna, ШИПЫ - {Замки}СмотрятНаМеня",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/castles.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/castles.mp3"
+	};
+	
+	[85] = {
+		Name = "ШИПЫ - wir rauchen so viel dass sich eine wunde",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/wir.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/wir.mp3"
+	};
+	
+	[86] = {
+		Name = "ШИПЫ - krovat'",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/krovat.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/krovat.mp3"
+	};
+	
+	[87] = {
+		Name = "ШИПЫ - krovat' (sc ver)",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/krovat.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/krovat2.mp3"
+	};
+	
+	[88] = {
+		Name = "ШИПЫ, VZk1ll - Smokin' Sexy Style!! #darxxk_kore #2k16",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/smoking.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/smoking.mp3"
+	};
+	
+	[89] = {
+		Name = "ШИПЫ - Raid_Shadow_HODMembers",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/raid_shadow.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/raid_shadow.mp3"
+	};
+	
+	[90] = {
+		Name = "cowboyclicker, ШИПЫ - ⚜️Waterfall⚜️",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/waterfall.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/waterfall.mp3"
+	};
+	
+	[91] = {
+		Name = "ШИПЫ - ☠SAXXoceanTrip☠ /spiderkissmerhtnw\ #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/ocean.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/ocean.mp3"
+	};
+	
+	[92] = {
+		Name = "ШИПЫ - FlowerTouch #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/flowertouch.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/flowertouch.mp3"
+	};
 }
