@@ -312,7 +312,7 @@ return {
 	};
 	
 	[53] = {
-		Name = "ONDA ANDAR - Sag Mama #2016",
+		Name = "ШИПЫ - Sag Mama #2016",
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/sag_mama.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/sag_mama.mp3"
 	};
@@ -428,7 +428,7 @@ return {
 	[72] = {
 		Name = "ШИПЫ - Castle Mirror",
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
-		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/castle_mirror.mp3"
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/castle.mp3"
 	};
 	
 	[73] = {
