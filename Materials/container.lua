@@ -388,4 +388,10 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/gravity.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/gravity.mp3"
 	};
+	
+	[66] = {
+		Name = "ШИПЫ - WrmsRMGDN",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/Gravecrash2003.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/wrms.mp3"
+	};
 }
