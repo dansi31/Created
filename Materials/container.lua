@@ -328,4 +328,64 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/swgn_hard.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/swgn_hard.mp3"
 	};
+	
+	[56] = {
+		Name = "ШИПЫ - RailNoWay",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/railnoway.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/railnoway.mp3"
+	};
+	
+	[57] = {
+		Name = "ШИПЫ - PSP/COH",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/psp_coh.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/psp_coh.mp3"
+	};
+	
+	[58] = {
+		Name = "ШИПЫ - spikes in my head",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/spikes_in_my_head.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/spikes_in_my_head.mp3"
+	};
+	
+	[59] = {
+		Name = "ШИПЫ - Panasonic SDR",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/panasonic.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/panasonic.mp3"
+	};
+	
+	[60] = {
+		Name = "ШИПЫ - halls of the dead #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/halls.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/halls.mp3"
+	};
+	
+	[61] = {
+		Name = "cowboyclicker, ШИПЫ - Игрушки",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/toys.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/toys.mp3"
+	};
+	
+	[62] = {
+		Name = "ШИПЫ - MOV000 #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/mov000.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/mov000.mp3"
+	};
+	
+	[63] = {
+		Name = "cowboyclicker, ШИПЫ - zombie",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/zombie.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/zombie.mp3"
+	};
+	
+	[64] = {
+		Name = "ШИПЫ - WebShooter1100",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/webshooter1100.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/webshooter1100.mp3"
+	};
+	
+	[65] = {
+		Name = "ШИПЫ - Gravity gun test drive #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/gravity.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/gravity.mp3"
+	};
 }
