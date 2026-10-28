@@ -304,4 +304,28 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/athf.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/athf.mp3"
 	};
+	
+	[52] = {
+		Name = "ptrckparker, ШИПЫ - Shiftwalker #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/shiftwalker.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/shiftwalker.mp3"
+	};
+	
+	[53] = {
+		Name = "ONDA ANDAR - Sag Mama #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/sag_mama.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/sag_mama.mp3"
+	};
+	
+	[54] = {
+		Name = "cowboyclicker, ШИПЫ - GhostRunner #2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/ghostrunner.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/ghostrunner.mp3"
+	};
+	
+	[55] = {
+		Name = "ШИПЫ - swgn hard 2016",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/swgn_hard.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/swgn_hard.mp3"
+	};
 }
