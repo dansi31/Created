@@ -550,4 +550,46 @@ return {
 		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/flowertouch.jpeg",
 		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/flowertouch.mp3"
 	};
+	
+	[93] = {
+		Name = "type_0 - Целитель.",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/fikus.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/celitel.mp3"
+	};
+	
+	[94] = {
+		Name = "type_0 - Мерзавчик.",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/fikus.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/merzavchik.mp3"
+	};
+	
+	[95] = {
+		Name = "type_0 - beat 313",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/beat_313.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/beat_313.mp3"
+	};
+	
+	[96] = {
+		Name = "type_0 - cut the rope games online",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/cut.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/cut.mp3"
+	};
+	
+	[97] = {
+		Name = "type_0 - Доктор А+",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/doctor_a.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/doctor_a.mp3"
+	};
+	
+	[98] = {
+		Name = "type_0 - park music =)))))",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/autumn_gameplay.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/park_music.mp3"
+	};
+	
+	[99] = {
+		Name = "type_0 - Michaels's kindergarten",
+		IconLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Pics/autumn_gameplay.jpeg",
+		MusicLink = "https://github.com/dansi31/ONDA-MUSIC/raw/refs/heads/main/Audios/kindergarten.mp3"
+	};
 }
