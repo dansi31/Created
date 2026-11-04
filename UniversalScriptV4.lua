@@ -1,5 +1,3 @@
-if true then return end
-
 local executor = identifyexecutor()
 
 if table.find({"Xeno", "Solara", "Celery"}, executor) then
