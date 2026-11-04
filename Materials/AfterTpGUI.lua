@@ -73,6 +73,7 @@ TextButton.BackgroundTransparency = 0.95
 TextButton.Position = UDim2.new(0, 0, 0.34, 0)
 TextButton.Size = UDim2.new(0, 325, 0, 50)
 TextButton.Parent = Frame
+TextLabel.LayoutOrder = 0
 UICorner_4.CornerRadius = UDim.new(0, 15)
 UICorner_4.Parent = TextButton
 UIListLayout_3.Padding = UDim.new(0, 35)
@@ -111,6 +112,8 @@ Keep.MouseButton1Click:Connect(function()
 	end
 end)
 
+Keep.LayoutOrder = 1
+
 Inject.MouseButton1Click:Connect(function()
 	if not Active then return end
 	GUI.Enabled = false
@@ -122,6 +125,8 @@ Inject.MouseButton1Click:Connect(function()
 	loadstring(game:HttpGet("https://github.com/dansi31/Created/raw/refs/heads/main/UniversalScriptV4.lua"))()
 end)
 
+Inject.LayoutOrder = 2
+
 TextButton.MouseButton1Click:Connect(function()
 	GUI.Enabled = false
 	Active = false
@@ -130,6 +135,8 @@ TextButton.MouseButton1Click:Connect(function()
 		GUI:Destroy()
 	end)
 end)
+
+TextButton.LayoutOrder = 3
 
 local UserInputService = game:GetService("UserInputService")
 local runService = (game:GetService("RunService"));
