@@ -91,7 +91,7 @@ local Active = true
 
 Keep.MouseButton1Click:Connect(function()
 	if not Active then return end
-	
+	queue_on_teleport('loadstring(game:HttpGet("https://github.com/dansi31/Created/raw/refs/heads/main/Materials/AfterTpGUI.lua"))()')
 	GUI.Enabled = false
 	Active = false
 	local servers = {}
