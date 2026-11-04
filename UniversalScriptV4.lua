@@ -1,6 +1,6 @@
 local executor = identifyexecutor()
 
-if table.find({"Xeno", "Solara"}, executor) then
+if table.find({"Xeno", "Solara", "Celery"}, executor) then
 	error("Low UNC executor detected!")
 end 
 
