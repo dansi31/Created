@@ -1,5 +1,3 @@
-local Script = {}
-
 return function(MapName, PlaceID, Ver, TargetUrl)
 	if getgenv().CHOOSING_SCRIPT or game.PlaceId ~= PlaceID then return end
 	getgenv().CHOOSING_SCRIPT = true
