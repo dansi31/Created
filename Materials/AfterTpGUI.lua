@@ -122,7 +122,7 @@ Inject.MouseButton1Click:Connect(function()
 		wait(7)
 		GUI:Destroy()
 	end)
-	loadstring(game:HttpGet("https://github.com/dansi31/Created/raw/refs/heads/main/UniversalScriptV4.lua"))()
+	loadstring(game:HttpGet("https://github.com/dansi31/Created/raw/refs/heads/main/UniversalScriptV5.lua"))()
 end)
 
 Inject.LayoutOrder = 2
