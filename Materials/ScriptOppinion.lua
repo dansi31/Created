@@ -106,9 +106,7 @@ UIListLayout_3.Parent = Close
 function CloseGui()
 	ScreenGui.Enabled = false
 	task.spawn(function()
-		--wait(4)
-		getgenv().CHOOSING_SCRIPT = false
-		wait(3)
+		wait(7)
 		ScreenGui:Destroy()
 	end)
 end
@@ -128,6 +126,7 @@ return function(MapName, Ver, Func)
 	end)
 
 	Universal.MouseButton1Click:Connect(function()
+		getgenv().CAN_EXEC_US = true
 		CloseGui()
 		loadstring(game:HttpGet("https://github.com/dansi31/Created/raw/refs/heads/main/UniversalScriptV5.lua"))()
 	end)
