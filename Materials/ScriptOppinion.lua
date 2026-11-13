@@ -104,10 +104,11 @@ UIListLayout_3.SortOrder = Enum.SortOrder.LayoutOrder
 UIListLayout_3.Parent = Close
 
 function CloseGui()
-	getgenv().CHOOSING_SCRIPT = false
 	ScreenGui.Enabled = false
 	task.spawn(function()
-		wait(7)
+		wait(4)
+		getgenv().CHOOSING_SCRIPT = false
+		wait(3)
 		ScreenGui:Destroy()
 	end)
 end
@@ -116,9 +117,9 @@ return function(MapName, Ver, Func)
 	if getgenv().CHOOSING_SCRIPT then return end
 	getgenv().CHOOSING_SCRIPT = true
 
-    ScreenGui.Enabled = true
+	ScreenGui.Enabled = true
 	Special.Text = `{MapName} Script V{Ver} (For This Game)`
-	
+
 	Close.MouseButton1Click:Connect(CloseGui)
 
 	Special.MouseButton1Click:Connect(function()
