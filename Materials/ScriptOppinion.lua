@@ -106,7 +106,7 @@ UIListLayout_3.Parent = Close
 function CloseGui()
 	ScreenGui.Enabled = false
 	task.spawn(function()
-		wait(4)
+		--wait(4)
 		getgenv().CHOOSING_SCRIPT = false
 		wait(3)
 		ScreenGui:Destroy()
