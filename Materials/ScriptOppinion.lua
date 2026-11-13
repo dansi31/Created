@@ -104,6 +104,7 @@ UIListLayout_3.SortOrder = Enum.SortOrder.LayoutOrder
 UIListLayout_3.Parent = Close
 
 function CloseGui()
+	getgenv().CHOOSING_SCRIPT = false
 	ScreenGui.Enabled = false
 	task.spawn(function()
 		wait(7)
