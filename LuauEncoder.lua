@@ -6,7 +6,7 @@ local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 
 local player = Players.LocalPlayer
-local oldGui = player.PlayerGui:FindFirstChild("LuaUStringEncoder")
+local oldGui = gethui():FindFirstChild("LuaUStringEncoder")
 
 if oldGui then
 	oldGui:Destroy()
@@ -15,7 +15,7 @@ end
 local gui = Instance.new("ScreenGui")
 gui.Name = "LuaUStringEncoder"
 gui.ResetOnSpawn = false
-gui.Parent = player:WaitForChild("PlayerGui")
+gui.Parent = gethui()
 
 -- Main window
 local frame = Instance.new("Frame")
